@@ -1,18 +1,8 @@
 # 👋 Hi there, I'm Fiona Meng!
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fiona%20Meng&fontSize=50&fontAlignY=40&desc=Passionate%20Developer%20%7C%20CS%20@%20Columbia&descAlignY=60)
-
-Welcome to my GitHub!  
-I'm a passionate developer, lifelong learner, and creative problem solver. Currently pursuing my **MS in Computer Science at Columbia University**, I love building things that make life easier, smarter, and more fun.
-
 ---
 
 ## 🚀 About Me
-
-- 🎓 **Education:**
-
-  - MS in Computer Science, Columbia University
-  - BS in Mathematics, New York University
 
 - 💡 **Interests:**
 

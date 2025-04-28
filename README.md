@@ -1,16 +1,11 @@
-# 👋 Hi there, I'm Fanyue Meng!
-
-
 ## 🚀 About Me
 
-- 💡 **Interests:**
+- 🎓 I'm currently pursuing a Master's in Computer Science (Machine Learning Track) at Columbia University.
+- 🌱 I'm currently learning full-stack development techniques to become a full-stack engineer.
+- 📬 Reach me by [fm2859@columbia.edu](mailto:fm2859@columbia.edu).
+- ✈️ Fun fact: I love traveling and discovering local food — I'm always adding new pl
 
-  - Machine Learning 🤖
-  - Software Development 💻
-  - Data Science & Analytics 📊
-  - UI/UX Design 🎨
 
-- 🌱 Always learning, always building.
 
 
 ## 🖥️ Programming Languages
@@ -22,7 +17,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="50" height="50"/>
 </p>
 
----
 
 ## 📚 Frameworks / Libraries
 <p align="left">
@@ -39,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
 </p>
 
----
 
 ## 🗄️ Databases
 <p align="left">
@@ -48,7 +41,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="50" height="50"/>
 </p>
 
----
 
 ## 🛠️ Tools & Cloud
 <p align="left">

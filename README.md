@@ -1,6 +1,5 @@
-# 👋 Hi there, I'm Fiona Meng!
+# 👋 Hi there, I'm Fanyue Meng!
 
----
 
 ## 🚀 About Me
 
@@ -13,7 +12,6 @@
 
 - 🌱 Always learning, always building.
 
----
 
 ## 🖥️ Programming Languages
 <p align="left">
@@ -24,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 </p>
 
----
 
 ## 📚 Frameworks & Libraries
 <p align="left">
@@ -38,7 +35,6 @@
   <img src="https://img.shields.io/badge/REST-API-ff69b4.svg?style=flat-square&logo=rest&logoColor=white" alt="REST API" height="40"/>
 </p>
 
----
 
 ## 🛠️ Tools & Technologies
 <p align="left">
@@ -48,7 +44,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
----
 
 ## 🗄️ Databases
 <p align="left">
@@ -58,7 +53,5 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiona-meng&show_icons=true&count_private=true&hide=stars&theme=default" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=fiona-meng&show_icons=true&count_private=true&hide=stars&theme=default" alt="GitHub Stats" />
 
